@@ -1,5 +1,4 @@
 make soup
 buy plant
-master python
 clean the program
 play football
